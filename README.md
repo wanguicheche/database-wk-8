@@ -2,9 +2,9 @@
 
 ## Overview
 This project is a **simple Library Management System** implemented in **MySQL**.  
-It was created as part of my database assignment. The goal is to design, implement, and test a small relational database that supports basic library operations such as tracking books, authors, members, copies, and loans.
+The goal is to design, implement, and test a small relational database that supports basic library operations such as tracking books, authors, members, copies, and loans.
 
-A corresponding **Entity–Relationship Diagram (ERD)** sketch has been created in **draw.io** and is attached in this repository.
+A corresponding **Entity–Relationship Diagram (ERD)** sketch has been created in **draw.io** and is attached to this repository.
 
 ---
 
@@ -49,6 +49,6 @@ The system contains 6 main tables:
 ## Notes
 - The ERD sketch was created using **draw.io** and exported as a PNG for easier viewing.  
 - The database uses **InnoDB** storage engine to support transactions and foreign keys.  
-- Code is kept intentionally **simple and beginner-friendly**, following good practices.
+- Code follows good practices with comments for explanation in MySQL.
 
 ---
